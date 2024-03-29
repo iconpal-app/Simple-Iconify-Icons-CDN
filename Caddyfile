@@ -1,3 +1,7 @@
-:80
+:80 {
+	log {
+		format console
+	}
 
-file_server
+	file_server
+}
